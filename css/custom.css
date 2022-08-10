@@ -15,3 +15,7 @@
 #content .container .row {
   text-align: justify;
 }
+
+#content .container .row img {
+  width: 100%;
+}
