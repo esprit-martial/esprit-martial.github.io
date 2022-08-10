@@ -11,3 +11,7 @@
 .box-simple {
   min-height: 230px;
 }
+
+#content .container .row {
+  text-align: justify;
+}
