@@ -32,7 +32,7 @@
 .scheduleContainer {
 	display: grid;
 	grid-gap: 0.2rem;
-	grid-template-columns: 5rem repeat(4, 1fr);
+	/*grid-template-columns: 5rem repeat(9, 1fr);*/
 	/*grid-template-rows: repeat(64, 0.1fr);*/
 	/*grid-template-areas: "timeday" "time800" "time815" "time830" "time845" "time900" "time915" "time930" "time945" "time1000" "time1015" "time1030" "time1045" "time1100" "time1115" "time1130" "time1145" "time1200" "time1215" "time1230" "time1245" "time1300" "time1315" "time1330" "time1345" "time1400" "time1415" "time1430" "time1445" "time1500" "time1515" "time1530" "time1545" "time1600" "time1615" "time1630" "time1645" "time1700" "time1715" "time1730" "time1745" "time1800" "time1815" "time1830" "time1845" "time1900" "time1915" "time1930" "time1945" "time2000" "time2015" "time2030" "time2045" "time2100" "time2115" "time2130" "time2145" "time2200" "time2215" "time2230" "time2245" "time2300" "time2315" "time2330" "time2345";*/
 }
@@ -797,6 +797,18 @@
 }
 .event.k-body {
 	background-color: #0A0;
+	color: #FFF;
+}
+.event.k-contact {
+	background-color: #099;
+	color: #FFF;
+}
+.event.aikido {
+	background-color: #FFF;
+	color: #000;
+}
+.event.all {
+	background-color: #75F;
 	color: #FFF;
 }
 .event.jour {
