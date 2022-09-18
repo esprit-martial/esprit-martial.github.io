@@ -767,6 +767,15 @@
 .event.length-7 {
 	grid-column-end: span 7;
 }
+.event.length-8 {
+	grid-column-end: span 8;
+}
+.event.length-9 {
+	grid-column-end: span 9;
+}
+.event.length-10 {
+	grid-column-end: span 10;
+}
 .event.k-enfant {
 	background-color: #0AF;
 	color: #FFF;
@@ -808,7 +817,7 @@
 	color: #000;
 }
 .event.all {
-	background-color: #75F;
+	background-color: #870;
 	color: #FFF;
 }
 .event.jour {
