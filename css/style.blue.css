@@ -1177,7 +1177,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .home-carousel {
 	position: relative;
-	background: url('../img/carousel/fond.jpg') center center repeat;
+	/*background: url('../img/franck.png') center center repeat;*/
 	background-size: cover;
 	background-color: var(--primary-accent);
 	-webkit-transition: all 0.2s ease-out;
@@ -1337,7 +1337,7 @@ fieldset[disabled] .btn-template-primary.active {
 	clear: both;
 }
 .testimonials .item .testimonial .text {
-	color: #999999;
+	color: #555;
 	margin-bottom: 40px;
 }
 .testimonials .item .testimonial .bottom {
@@ -1368,7 +1368,7 @@ fieldset[disabled] .btn-template-primary.active {
 	letter-spacing: 0.08em;
 }
 .testimonials .item .testimonial .name-picture p {
-	color: #999999;
+	color: #555;
 	margin: 0;
 	font-size: 12px;
 }
